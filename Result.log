@@ -1,0 +1,55 @@
+****************************************START********************************************
+Scenario1
+Publish-Overwrite previous deployment-ON(Staging)
+StartTime:5:09:01 AM
+RDP Connection:- NO
+
+-----Test Passed-----
+
+EndTime:5:19:26 AM
+ 
+*****************************************END*********************************************
+****************************************START********************************************
+Scenario2
+UnPublish
+StartTime:5:19:38 AM
+RDP Connection:- NO
+
+-----Test Passed-----
+
+EndTime:5:31:37 AM
+ 
+*****************************************END*********************************************
+****************************************START********************************************
+Scenario3
+Publish-Overwrite previous deployment-OFF(Staging)
+StartTime:5:31:49 AM
+RDP Connection:- NO
+
+-----Test Passed-----
+
+EndTime:5:44:55 AM
+ 
+*****************************************END*********************************************
+****************************************START********************************************
+Scenario5
+Publish-Set Overwrite previous deployment Off-Publish to cloud(Production)
+StartTime:5:46:32 AM
+RDP Connection:- NO
+
+-----Test Passed-----
+
+EndTime:5:49:58 AM
+ 
+*****************************************END*********************************************
+****************************************START********************************************
+Scenario4
+Publish-Set Overwrite previous deployment-Publish to cloud(Production)
+StartTime:5:50:58 AM
+RDP Connection:- NO
+
+-----Test Passed-----
+
+EndTime:6:03:12 AM
+ 
+*****************************************END*********************************************
